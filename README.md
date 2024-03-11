@@ -6,7 +6,7 @@
 
 
 **3 fun facts about me**
-1. I am a Statistics and Health Sciencs major
+1. I am a Statistics and Health Sciences major
 2. I am interseted in data analysis and hope to do this in a health setting 
 3. I enjoy going to the gym
 

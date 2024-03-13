@@ -4,7 +4,7 @@
 
 * Hello, I'm Emily :hugs:
 
-**3 fun facts about me**
+**4 fun facts about me**
 1. :woman_health_worker: I am a Statistics and Health Sciences major 
 2. :bar_chart: I am interseted in data analysis and hope to do this in a health setting 
 3. :weight_lifting_woman: I enjoy going to the gym

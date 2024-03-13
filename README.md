@@ -1,9 +1,8 @@
 # stats220
 
-:fairy_woman: *Welcome to Emily's Stats220 Projects* 
+:fairy_woman: *Welcome to emilyisafairy's Stats220 Projects* :fairy_woman:
 
-* Feel free to follow me 
-
+* Hello, I'm Emily
 
 **3 fun facts about me**
 1. I am a Statistics and Health Sciences major
